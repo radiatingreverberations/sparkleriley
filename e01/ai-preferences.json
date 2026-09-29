@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 2,
+  "projectId": "3409b29d-c815-40bc-a07e-3d9e9442ac7c",
+  "textDefault": {
+    "backend": "ClaudeCode",
+    "model": "opus",
+    "name": "Opus",
+    "comfyUrl": null
+  },
+  "textDefaultRevision": 1,
+  "imageDefault": "QwenImage21",
+  "imageDefaultRevision": 1,
+  "production": null,
+  "shots": null,
+  "story": null,
+  "assetExtraction": null,
+  "promptEnhancement": null,
+  "loraVisibility": {
+    "onlyTags": [],
+    "hiddenTags": []
+  },
+  "loraVisibilityRevision": 0
+}

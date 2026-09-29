@@ -1,0 +1,2345 @@
+{
+  "id": "7ee93f54-e828-5aed-1de4-8a90dc84cb75",
+  "projectId": "3409b29d-c815-40bc-a07e-3d9e9442ac7c",
+  "sourceRevision": 2,
+  "capturedUtc": "2026-09-24T02:24:23.8999991+00:00",
+  "blocks": [
+    {
+      "id": "bc34d93f-3248-4353-9838-a2e04d7e0d05",
+      "kind": "Action",
+      "spans": []
+    },
+    {
+      "id": "78cc8e55-6f60-4083-9f8e-cf30cdbd7c0f",
+      "kind": "Act",
+      "spans": [
+        {
+          "text": "ACT 1 \u2014 THE CAPTURE",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "8b3aec98-67a5-434d-b347-bbaf38c68366",
+      "kind": "Scene",
+      "spans": [
+        {
+          "text": "INT. RILEY\u2019S BEDROOM \u2014 NIGHT",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "ddee14eb-a7dd-4f33-b627-7a0fd6acd4b3",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "A cluttered adult gamer\u2019s bedroom. Unwashed mug. Unopened mail. One extremely expensive keyboard.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "e0006bf1-d51d-4083-b263-356b6a2a4737",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "RILEY, 24, has a soft, pretty face, short auburn hair tucked behind one ear, and round glasses.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "8f8bd5d6-4707-4126-99c5-627814b4f4a2",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "Online, millions know her as SparkleRiley. Right now, she\u2019s losing an argument with League of Legends matchmaking.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "ba3f780c-a3d1-4c66-babc-35d99685251a",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "Her headset microphone is flipped up, muted. On her monitor: ASSIGNED POSITION: TOP. She considers this.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "d375f76e-f6cc-4046-9b41-57a7f3e17f83",
+      "kind": "Character",
+      "spans": [
+        {
+          "text": "RILEY",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "a68d7041-a157-499b-befa-a4d598127ebc",
+      "kind": "Dialogue",
+      "spans": [
+        {
+          "text": "Support is a mindset, not a location.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b2fbad4f-0d62-4d6d-8a47-83585eb15a10",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "She locks in LUX, then selects ELEMENTALIST. An elegant fantasy mage outfit fills the preview: an iridescent lavender-blue corset bodice with a high silver collar, sculpted metallic hip armor, a short layered skirt in lavender and deep blue, long fitted gauntlets with silver detailing, and a delicate crystal-set circlet. Riley gives it an approving nod. A teammate\u2019s message appears: we need frontline.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "21ac47b3-1a19-4c48-87dd-e81e60f17224",
+      "kind": "Character",
+      "spans": [
+        {
+          "text": "RILEY",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "db436187-fc2f-4c75-9486-1c35af173667",
+      "kind": "Dialogue",
+      "spans": [
+        {
+          "text": "I have a shield.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "a569b0da-cc03-432b-8414-e3c8c7ba1caf",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "She types the same reply. Hesitates, then deletes it. Takes a sip from the mug. Immediately regrets it.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "e26dc2aa-0d19-40e6-be63-027edb31d634",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "The match begins loading. The progress bar reaches ninety-nine percent. Stops.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "fcdc9df2-7a53-44db-9152-72a1318db6f5",
+      "kind": "Character",
+      "spans": [
+        {
+          "text": "RILEY",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b78ed447-46ce-48b5-9c6a-04dc3a49375f",
+      "kind": "Dialogue",
+      "spans": [
+        {
+          "text": "For the record, it isn\u2019t my computer.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "88638a87-fb44-42e8-98f7-75aa82b58db7",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "The monitor emits a deep, unnatural HUM. Her spoon rises out of the mug. Riley slowly lowers her headphones onto the desk.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "f05c46fa-5c7d-4844-8ae3-cd391e2b5d04",
+      "kind": "Character",
+      "spans": [
+        {
+          "text": "RILEY",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "a462bcaf-4524-4102-80c8-8c48224c451d",
+      "kind": "Dialogue",
+      "spans": [
+        {
+          "text": "That\u2019s new.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "71d473f9-e06a-482a-b2b8-673a1cc994a6",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "Golden light spills across her lap. Her tank top shimmers into a fitted iridescent lavender-blue bodice edged in silver, with a high ornamental collar. Her shorts become a short, layered ruffled skirt in lavender and deep blue. Sculpted metallic pieces frame her hips, while long decorative side panels spill over both sides of the chair. Matching lavender gauntlets form around her arms, and a delicate crystal-set circlet settles into her hair.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "508680b2-25e7-40c0-bd5f-c90842d13bb2",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "Riley stands. Her legs and feet remain bare. She lifts a handful of skirt, then smooths her short auburn hair behind one ear. Still hers. Her face remains unchanged.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "594b1e40-9fdd-4d7f-a024-402ef684c1cc",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "The monitor brightens. Beyond its frame: sunlit stone and a crimson banner stirring in the breeze. Daylight spills into her dark bedroom. A draft pulls the dress toward the screen. Riley plants a hand on the desk.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "86fb7cdf-e645-4c27-bf37-4af8bff4ca42",
+      "kind": "Character",
+      "spans": [
+        {
+          "text": "RILEY",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "d7f08019-e976-4d81-add3-20f0bf19112a",
+      "kind": "Dialogue",
+      "spans": [
+        {
+          "text": "No way I\u2019m showing up like this.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "cb1f7ba7-3122-4735-87d0-c42a917ba8bd",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "She grabs the skirt before it can disappear into the monitor.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "78ef729f-61f1-4266-9ae3-120ec722ed92",
+      "kind": "Character",
+      "spans": [
+        {
+          "text": "RILEY",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "ef39a197-1939-4df3-bcfe-7054e4a38121",
+      "kind": "Dialogue",
+      "spans": [
+        {
+          "text": "Base skin. The one with armor.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "976ae656-6bec-49db-8b7e-63e9125f2a3d",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "The light pulses. The fabric in her fist dissolves. A fitted royal-blue sleeveless bodice settles over her, embroidered with white swirling clouds and gold trim. Short layered armored panels form a skirt. Pale-blue gloves with ornate cuffs cover her arms; blue thigh-high boots enclose her bare feet. Elegant blue-and-gold ornaments appear in her hair.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "0100dcba-4619-4bba-8b7b-1c0646945788",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "She looks down at herself.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "37780428-3dad-4a0b-92a9-d6de8289ade8",
+      "kind": "Character",
+      "spans": [
+        {
+          "text": "RILEY",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "5d5923c8-f1c4-453e-af4a-dd6781bf41a7",
+      "kind": "Dialogue",
+      "spans": [
+        {
+          "text": "I said armor, not cutlery! Metal!",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "4f78f142-3f76-48af-bd09-84f7f5c1198c",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "The light pulses again. A fitted dark-navy bodysuit locks into place beneath a sculpted silver breastplate and broad armored collar. A short ivory shoulder mantle, embroidered in gold, settles over her shoulders. Dark waist armor and a brown-and-gold belt form at her middle. Silver forearm gauntlets, angular knee and shin armor, and sturdy boots complete the outfit with crisp metallic CLICKS.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "9976f924-8960-4ba1-b31e-dfc8f6b16b1a",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "Riley knocks once on her breastplate. Solid.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "c85e862d-8a14-44db-8d66-dac04e6d25e3",
+      "kind": "Character",
+      "spans": [
+        {
+          "text": "RILEY",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "9f72f01f-74d6-4501-8930-cf27d959c17c",
+      "kind": "Dialogue",
+      "spans": [
+        {
+          "text": "Better. Now, about\u2014",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "15ea2424-f31e-4e38-9039-9eb7ca70a005",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "The pull jerks her off her feet. She catches the desk edge with both hands. Her boots swing up, striking the ceiling. CLONK.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "6b428ff8-1081-4be4-a2cf-f1b3aa694bfd",
+      "kind": "Character",
+      "spans": [
+        {
+          "text": "RILEY",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "251586eb-9341-45f9-9150-3ab533f76727",
+      "kind": "Dialogue",
+      "spans": [
+        {
+          "text": "Careful, I rent\u2014",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "0a3191ca-5d8a-4158-be42-1cf6e39a4359",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "Her fingers slip. The monitor pulls her through.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "1d2fccbb-b326-4d40-85f7-c12d672f2e14",
+      "kind": "Transition",
+      "spans": [
+        {
+          "text": "CUT TO:",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "88bffd0d-c4ec-48d7-a3fc-8bced3b4b448",
+      "kind": "Scene",
+      "spans": [
+        {
+          "text": "EXT. NOXIAN ALLEY \u2014 DAY",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "ce2aeb10-b367-4b64-895b-149f564573a4",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "Riley tumbles out of a collapsing rift into empty wooden crates. One last crate lands over her head. She lifts it off, pushes her hair out of her face, and looks around.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "6b77cd05-f040-4dbc-b409-16c547188829",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "Black-and-crimson banners hang against pale stone walls. Broad daylight reaches the cobbles. For one brief moment, she is genuinely impressed.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "360e99fa-8f21-4f0d-956f-238f9c5b95bd",
+      "kind": "Character",
+      "spans": [
+        {
+          "text": "RILEY",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "ffa4eff1-a92a-4852-a3c1-94b2d7a30c09",
+      "kind": "Dialogue",
+      "spans": [
+        {
+          "text": "Oh, I\u2019ve never been here.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "5385d3da-d8a5-4784-9356-124ac24e2877",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "Somewhere nearby, something enormous growls.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "d428e89b-7ee2-4612-8093-edd58a35e37d",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "A spear slides into frame.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "43daab8c-0cc9-4a9f-a0f3-a4b34eea0579",
+      "kind": "Character",
+      "spans": [
+        {
+          "text": "RILEY",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "fd934d81-5f26-40dd-971d-4910e58387aa",
+      "kind": "Dialogue",
+      "spans": [
+        {
+          "text": "\u2026Once is enough.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "2caf7d96-f869-4eee-8d1b-94286c08b989",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "Riley looks down at her armor, then at the staff that has landed next to her. She makes a small swiping gesture in the air. Nothing happens.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "8f59f46d-ba52-4a10-b0d3-1e9ac007d2e9",
+      "kind": "Character",
+      "spans": [
+        {
+          "text": "RILEY",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "3122c923-1f79-414e-91de-f23e5cc4370f",
+      "kind": "Dialogue",
+      "spans": [
+        {
+          "text": "Escape?",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "15ea9bbb-db80-4029-99a5-72cbaeae153a",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "A NOXIAN GUARD steps into her path, spear leveled. An enormous clipboard hangs from his belt. Riley picks up the staff and draws her elbows in, holding it close.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "a0f3681b-4960-445c-b2f5-dfbcd5793d84",
+      "kind": "Character",
+      "spans": [
+        {
+          "text": "GUARD",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "31da5de8-766b-48a7-ac22-eff1d69def58",
+      "kind": "Dialogue",
+      "spans": [
+        {
+          "text": "Demacian! State your purpose.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "6054d9ab-baf9-44e1-b89f-9e4d5787378b",
+      "kind": "Character",
+      "spans": [
+        {
+          "text": "RILEY",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "bdcf03d4-1834-4016-b03f-c0cdf5fe01fc",
+      "kind": "Dialogue",
+      "spans": [
+        {
+          "text": "The system sent me here.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b5cb2163-2b7b-4b41-b2a3-7b8ce8910880",
+      "kind": "Character",
+      "spans": [
+        {
+          "text": "GUARD",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "1ca94476-f97d-4a72-95fa-8fd388dbb36b",
+      "kind": "Dialogue",
+      "spans": [
+        {
+          "text": "The system?",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "1531254e-aed6-4a3a-83fb-27e126208a49",
+      "kind": "Character",
+      "spans": [
+        {
+          "text": "RILEY",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "d656515d-c67f-40c6-9cee-5236317db8f0",
+      "kind": "Dialogue",
+      "spans": [
+        {
+          "text": "Yeah. Picking Lux was my mistake. Getting sent here wasn\u2019t.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "f461683f-7fa5-42c0-abc1-58f9108056eb",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "The guard unhooks his clipboard.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "6364cb55-9207-4123-b379-9be6ed3eff52",
+      "kind": "Character",
+      "spans": [
+        {
+          "text": "GUARD",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "2acc497a-4570-4902-aa30-72a41df62dc8",
+      "kind": "Dialogue",
+      "spans": [
+        {
+          "text": "Draft violation.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "6383fe9c-6881-453c-a76a-0c39c6d601fd",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "Riley raises her staff. A nervous spark gathers at its tip. The guard slips a tiny iron cap over it. The light goes out.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "22f26a55-b279-4956-982f-e0b3c015df5b",
+      "kind": "Character",
+      "spans": [
+        {
+          "text": "RILEY",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "1f6a764d-404d-42c6-b945-74fb1600989d",
+      "kind": "Dialogue",
+      "spans": [
+        {
+          "text": "The light\u2026 it\u2019s gone.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "99c3783c-92e4-4564-9e4c-acbe3ce08a6e",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "She gives the staff one experimental shake. The guard taps the little iron cap with one finger.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "85b022bc-fc11-4e32-83c6-5dfd96655198",
+      "kind": "Character",
+      "spans": [
+        {
+          "text": "GUARD",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "9ca5ec54-f8e1-48fc-af3e-674076fb13f1",
+      "kind": "Dialogue",
+      "spans": [
+        {
+          "text": "Budget cuts. We used to have a whole dungeon.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "6ed57831-33a0-436f-97d1-2aac9dfbf686",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "He points toward the plaza, then looks down to finish his form. Riley takes one obedient step. Notices a narrow side alley.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "e5c9837f-be26-4e0d-8943-6d0bab16154c",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "She looks down at her conspicuous silver breastplate.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "d6f204b8-e74a-4825-b487-8c7e3bcecac3",
+      "kind": "Character",
+      "spans": [
+        {
+          "text": "RILEY",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "86bb424f-237a-421b-984f-e9768489d5f6",
+      "kind": "Parenthetical",
+      "spans": [
+        {
+          "text": "(under her breath)",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "bd13169c-72ce-4445-a8fc-150474025d89",
+      "kind": "Dialogue",
+      "spans": [
+        {
+          "text": "The hooded one.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "db839812-6af6-4fcd-a2c4-44f03107bacf",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "The armor shimmers into a dark mage outfit: a hooded brown shoulder cloak, a fitted deep-blue tunic with glowing blue vials strung across the chest, a wide leather belt, and metal wrist cuffs. The hood settles over her short auburn hair. Her staff twists into knotted dark wood, a purple crystal at its tip, held dim beneath the iron cap. She checks the guard. Still writing.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "00cf1052-29be-4251-90e2-c29c57fa7972",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "She pulls the hood low and slips sideways into the alley. Around a corner. Behind a stack of barrels. She presses her back to the wall and holds her breath.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "4d31c736-fe60-4ca0-8086-465586ee2c30",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "Footsteps pass the entrance. Riley lets herself smile.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "87dd3e86-47af-4246-92af-d2c70a7c4624",
+      "kind": "Character",
+      "spans": [
+        {
+          "text": "RILEY",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "94f00145-0a7f-4d32-9893-8a1521cb34a4",
+      "kind": "Dialogue",
+      "spans": [
+        {
+          "text": "A battle plan is the\u2014",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "59c01842-f4ee-4930-9fd8-962facce38f2",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "The blunt end of a spear taps her elbow. A SECOND GUARD stands at the other end of the barrels. Riley\u2019s smile disappears.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "5d3fa825-cbf7-4103-a565-f119ef918519",
+      "kind": "Character",
+      "spans": [
+        {
+          "text": "SECOND GUARD",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "e065878d-0ff3-4990-8bbc-2f8b1ecd460d",
+      "kind": "Dialogue",
+      "spans": [
+        {
+          "text": "Other way.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "14b91923-3bb1-4602-9d39-1e680fc2f925",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "She looks toward the far end of the alley. The second guard shifts his spear across it. Riley looks back at him. Another small nudge at her elbow.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "976bc655-95fd-40eb-bd90-e75aee22defc",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "She steps out into the daylight. The first guard is waiting, one finger marking his place on the form.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "53cfcab0-c841-4e93-b289-162a2506c507",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "Riley glances between them. Then carefully props her capped staff against the wall.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "a80bdb3d-cc32-4343-91f3-2f4a51a34e5a",
+      "kind": "Character",
+      "spans": [
+        {
+          "text": "RILEY",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "3e4def46-c334-4b2b-8e41-cb3c2117cea6",
+      "kind": "Dialogue",
+      "spans": [
+        {
+          "text": "One more thing.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "4d305e3b-e7fe-4dfc-ac00-699f9d2430f6",
+      "kind": "Character",
+      "spans": [
+        {
+          "text": "GUARD",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "8561d3c9-8081-42c4-b37e-cba4ff40de53",
+      "kind": "Dialogue",
+      "spans": [
+        {
+          "text": "What?",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "79f340b4-274b-4ac5-8d90-b3bd743114e0",
+      "kind": "Character",
+      "spans": [
+        {
+          "text": "RILEY",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "46876623-8c6c-4f9f-b71f-98c1d93b55af",
+      "kind": "Dialogue",
+      "spans": [
+        {
+          "text": "Heartseeker.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "109c98dc-64b8-4f80-8806-716081b1c7e8",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "Her hood dissolves in a wash of pink light. The dark cloth re-forms into a futuristic magical-girl outfit: a cropped silver-gray ruffled top, asymmetrical beneath a dramatic sailor-style cape collar; an oversized glossy pink heart at her chest; high-waisted metallic hot-pink shorts over fitted black shorts; heart-shaped hip armor edged in gold chevrons; translucent side panels; and magenta over-the-knee socks with pink zigzag detailing.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "6c6b9919-0482-4fd6-9921-fe5db9065fc0",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "She smooths the unfamiliar fabric. Tucks a loose strand of hair behind one ear. She looks at the outfit. Considers it. Decides it is worth testing.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "6676e02d-7773-4a41-9227-80bfa05ef39c",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "Then she makes a small heart with both hands. A hopeful smile.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "d8b2bdf2-8f3f-4b05-9a0b-fc2d3ea619e1",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "The guard looks at the heart. Then at her. He sighs.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "cb8c9934-0717-49f9-a0e8-b982e50c85b6",
+      "kind": "Character",
+      "spans": [
+        {
+          "text": "GUARD",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "e227e0d7-e145-4fc3-a4bf-00e8bdf4d9a8",
+      "kind": "Dialogue",
+      "spans": [
+        {
+          "text": "Lux doesn\u2019t have charm.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "a7f96553-6d3f-4156-b91b-61755c4a1958",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "She keeps holding the heart. One more beat. Her fingers slowly separate. The guard takes another look at her outfit.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "f1242e64-0ec5-4804-88c7-ef366636da12",
+      "kind": "Character",
+      "spans": [
+        {
+          "text": "GUARD",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "38bcb1de-abe5-48ed-8c57-ff649c0b4841",
+      "kind": "Dialogue",
+      "spans": [
+        {
+          "text": "And that skin is for mobile. Are you cheating?",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "2d2eeb03-01ed-4a42-9eb8-80c9dde10012",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "His quill moves toward the clipboard.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "d2e3ad57-7198-443f-b69c-025c05d00160",
+      "kind": "Character",
+      "spans": [
+        {
+          "text": "RILEY",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "759193fa-b146-48a5-ae61-f60248aa9de8",
+      "kind": "Dialogue",
+      "spans": [
+        {
+          "text": "\u2026Base skin.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "dcfd53ce-980b-48a8-b26f-273d53121949",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "The navy-and-silver armor snaps back into place. Rather more urgently this time. The guard writes anyway.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "fae9d6e8-7797-4eb5-99a1-959704645312",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "Riley retrieves her staff, carefully avoiding both guards\u2019 eyes. The first guard points toward the plaza again. This time, she goes.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "65c1412f-856e-4343-844f-a6b2623f47f7",
+      "kind": "Act",
+      "spans": [
+        {
+          "text": "ACT 2 \u2014 THE PUBLIC HEARING",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "5001563e-5d6b-4818-bf6e-44740aaeb01a",
+      "kind": "Scene",
+      "spans": [
+        {
+          "text": "EXT. NOXIAN MAIN PLAZA \u2014 DAY",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "8bb38cf5-5462-4833-8b44-8c9cbdb052b6",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "A judicial bench and battered defendant\u2019s podium occupy a sunlit square. Three curious citizens stop to watch. Beyond the rooftops, an enormous black fortress dominates the skyline, its battlements bristling with crimson banners.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "f2908c82-0cda-4d6d-a9b5-f4bdd3d33ef8",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "The guard places Riley behind the podium. She edges toward an open passage. Without looking up, he slides his chair into her path. She returns to the podium.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "1ce579b4-b93a-4911-83a4-d3a66f98718d",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "A NOXIAN MAGISTRATE sits behind the bench, armored in black iron. He puts on very small reading glasses.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "9cb7c748-9d0d-499e-8e2a-5ba69da90cc2",
+      "kind": "Character",
+      "spans": [
+        {
+          "text": "MAGISTRATE",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "c3a7c82b-2510-40be-9223-b1f9783c8add",
+      "kind": "Dialogue",
+      "spans": [
+        {
+          "text": "You entered Noxus under suspicious circumstances\u2014",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "baa5ef46-4b21-4427-9576-99d1acab1859",
+      "kind": "Character",
+      "spans": [
+        {
+          "text": "RILEY",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "412bb2d9-2f3a-498d-8532-927e55e11c83",
+      "kind": "Dialogue",
+      "spans": [
+        {
+          "text": "That\u2019s fair.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "3c3f1286-0dbb-4910-80d4-179e1773d279",
+      "kind": "Character",
+      "spans": [
+        {
+          "text": "MAGISTRATE",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "d8c6b36b-a86f-47f5-b95b-cec736d38f25",
+      "kind": "Dialogue",
+      "spans": [
+        {
+          "text": "\u2014and knowingly selected Lux for the top lane.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "7a00d858-7214-459f-ab41-fac9f7f6df5a",
+      "kind": "Character",
+      "spans": [
+        {
+          "text": "RILEY",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "e00e60f3-496e-41d7-9b05-5d200d7173b0",
+      "kind": "Dialogue",
+      "spans": [
+        {
+          "text": "I\u2019d like to focus on the first thing.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "ec53eedb-529d-4b52-8dd5-8c0d9f141a59",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "A spectator leans closer. Riley shifts behind the podium, avoiding their gaze.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b84785aa-d4c6-4244-8dfa-decf6d343dce",
+      "kind": "Character",
+      "spans": [
+        {
+          "text": "GUARD",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "60fbc714-8a98-4e21-812c-b19510e7333e",
+      "kind": "Dialogue",
+      "spans": [
+        {
+          "text": "Her team\u2019s statement: \u201CPlease. We need someone to stand in front.\u201D",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "ee49a2be-486a-4849-b003-849b6ce486db",
+      "kind": "Character",
+      "spans": [
+        {
+          "text": "RILEY",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "eabe9046-b5e9-4a4e-b923-9f9853fe5065",
+      "kind": "Dialogue",
+      "spans": [
+        {
+          "text": "I can stand in front.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "f9181a6a-10b9-44af-bb04-dad0ef66f058",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "The magistrate peers at her over the podium. She reluctantly straightens.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "6fca65aa-024d-4fad-8f0e-f2de9bedc5ab",
+      "kind": "Character",
+      "spans": [
+        {
+          "text": "RILEY",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "24604e05-85f7-4b0c-8fbf-69aee5d0e784",
+      "kind": "Dialogue",
+      "spans": [
+        {
+          "text": "Situationally.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "41cc0cbf-fc52-43b0-afb2-0995aa947099",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "The guard sets a tiny clockwork MELEE MINION on the ground and winds its key. Wooden sword raised, it waddles toward Riley. She immediately steps behind the guard.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "d29535b2-51f8-4b88-821b-fd2e3db4b7fc",
+      "kind": "Character",
+      "spans": [
+        {
+          "text": "RILEY",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "d20d87db-f716-4dd9-934e-cd90ea82100c",
+      "kind": "Dialogue",
+      "spans": [
+        {
+          "text": "In theory.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "0344a1ca-8b1c-44c4-bce3-f5b24101cbf7",
+      "kind": "Character",
+      "spans": [
+        {
+          "text": "MAGISTRATE",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "36566565-5bce-4836-9913-72e0d3b36a0e",
+      "kind": "Dialogue",
+      "spans": [
+        {
+          "text": "Our first witness.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "4923c94e-4597-4b33-8994-768349e7cdbf",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "Riley circles to the other side of the podium. The minion follows. She circles again.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "e98865eb-a55c-43da-9909-a478024ee0b7",
+      "kind": "Character",
+      "spans": [
+        {
+          "text": "MAGISTRATE",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "27f0b297-ee77-4716-9629-b24a801899c4",
+      "kind": "Dialogue",
+      "spans": [
+        {
+          "text": "The defendant is kiting the witness.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "53068d75-69c0-4a5c-a67f-eae55fb88b36",
+      "kind": "Character",
+      "spans": [
+        {
+          "text": "RILEY",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "22b04eaa-4585-44e0-8c9e-0f9c161f22a8",
+      "kind": "Dialogue",
+      "spans": [
+        {
+          "text": "I move to appear remotely.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "ca0472b1-e9c1-4fb2-af8c-0108a8300d2e",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "The minion keeps after her. She takes another step away from the wooden sword.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "1559ee24-4659-4498-95b4-e9c90da77eda",
+      "kind": "Character",
+      "spans": [
+        {
+          "text": "MAGISTRATE",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "951eae97-22be-4962-bdec-25a645078baa",
+      "kind": "Dialogue",
+      "spans": [
+        {
+          "text": "Any defense beyond possessing a shield?",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "025abfe7-f36e-4096-89fd-0a4f8abc0185",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "Riley opens her mouth. Closes it.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "788bbd68-2df5-4100-aaf9-62754d3943df",
+      "kind": "Character",
+      "spans": [
+        {
+          "text": "RILEY",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "e11760df-5596-499f-812f-910276753528",
+      "kind": "Dialogue",
+      "spans": [
+        {
+          "text": "Could I submit it in writing?",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "64007d32-6686-4fc3-bb30-fb9353b8be54",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "The guard offers a quill. She looks at the blank form. Nothing.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "ed12a03b-acd2-4f76-87ee-92cdab716592",
+      "kind": "Character",
+      "spans": [
+        {
+          "text": "MAGISTRATE",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "e2901d53-bb98-4eaf-8efe-cc13bf2597e1",
+      "kind": "Dialogue",
+      "spans": [
+        {
+          "text": "Mandatory frontline training.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "dff13bb4-dd21-4e2f-adcf-d3bf13da3a20",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "A gate begins to open. Heavy footsteps sound beyond it. The guard scoops up the minion and backs away from the gate.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "1707fa8b-1990-44ab-8c9b-7ef4e7fdc3f3",
+      "kind": "Character",
+      "spans": [
+        {
+          "text": "RILEY",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "72422248-4116-4ccd-b492-a9d7fe73ddd7",
+      "kind": "Dialogue",
+      "spans": [
+        {
+          "text": "How mandatory?",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "4a3a30fb-ff08-48ca-809c-3cbeb17c3492",
+      "kind": "Act",
+      "spans": [
+        {
+          "text": "ACT 3 \u2014 THE ESCAPE",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "7b8d5c79-90df-4e67-ad4c-1fa236a1af64",
+      "kind": "Scene",
+      "spans": [
+        {
+          "text": "EXT. NOXIAN MAIN PLAZA \u2014 CONTINUOUS",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "2deedad8-f8da-43c8-94af-b82a9a17729e",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "An electronic NOTIFICATION SOUND stops everyone. Blue text appears above the rooftops against the pale daytime sky: lux hasn\u2019t connected. Then: just remake.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "83790a54-2401-464c-8b7d-e16397f4cd10",
+      "kind": "Character",
+      "spans": [
+        {
+          "text": "RILEY",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "e909210f-f428-4a3b-8196-55e46399e8e0",
+      "kind": "Dialogue",
+      "spans": [
+        {
+          "text": "Oh, thank goodness. My team has given up on me.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b4d862b4-ca79-4d14-a9ad-c6967499d5e1",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "REMAKE VOTE PASSED fills the sky. The magistrate raises his gavel.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "ad310b90-fd4e-4d25-a34c-2d6d85f11110",
+      "kind": "Character",
+      "spans": [
+        {
+          "text": "MAGISTRATE",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "0529ea1c-daab-414a-bc1f-8b7546fcdf99",
+      "kind": "Dialogue",
+      "spans": [
+        {
+          "text": "On whose authority?",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "da74b7a1-f351-4c47-a772-70314b8574a4",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "The guard points upward.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "6b8749fb-885e-4381-a01f-52fcc7349f04",
+      "kind": "Character",
+      "spans": [
+        {
+          "text": "GUARD",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "5a846fcc-efb9-4b9b-9f6c-424de2225701",
+      "kind": "Dialogue",
+      "spans": [
+        {
+          "text": "Higher court.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "5a183915-4920-4df7-8ec8-a3d6eb9c45eb",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "The gavel dissolves into blue pixels. So does the iron cap on Riley\u2019s staff. Golden light returns to its tip.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "ae1306f3-3492-4695-b8a9-d35b6583a849",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "A bright rift opens across the square. Through it: her dark bedroom.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "f748ef1c-abed-4c84-a46d-c7c864945f72",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "Riley takes a step toward it. Stops. The staff is humming in her hands.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "5040e4e4-af4f-4366-8bcf-d2dc9a638a4c",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "Her gaze lifts to the black fortress above the rooftops. She looks at the staff. At the fortress. Back at her bedroom.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "8be8c852-23a4-4ebe-be90-8f228ee8099f",
+      "kind": "Character",
+      "spans": [
+        {
+          "text": "RILEY",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "5918d5c8-a9d1-4c62-9704-0cf2e6a4d82d",
+      "kind": "Dialogue",
+      "spans": [
+        {
+          "text": "It\u2019s already a remake\u2026 might as well try this.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "27aef25d-631c-44e6-af76-43593053f9a0",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "She plants her boots, lifts the staff with both hands, and aims above the rooftops. Almost experimentally.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "8e836f04-26c6-49b5-b934-817cf25ec110",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "The guard looks up from his clipboard.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "1f0915c4-ed7b-448c-8840-8eab4bbeaf28",
+      "kind": "Character",
+      "spans": [
+        {
+          "text": "GUARD",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "0a6346f9-e034-408f-922f-5e0279320c07",
+      "kind": "Dialogue",
+      "spans": [
+        {
+          "text": "Wait\u2014",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "e9962fa9-6bf3-4175-8556-9cb29c831fbb",
+      "kind": "Character",
+      "spans": [
+        {
+          "text": "RILEY",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "db33a54d-7eea-47bd-8c53-6dc0c5efcd94",
+      "kind": "Dialogue",
+      "spans": [
+        {
+          "text": "DEMACIA!",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "0167adbf-2bf6-4a88-8c89-6be748fdb1b5",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "The staff glows. One clean pulse. A COLOSSAL BEAM OF GOLDEN LIGHT erupts from it, lancing forward and slightly upward into the distant fortress. In the wide view, its thickness fills nearly half the height of the frame.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "7166f6f7-4a4b-4edd-a129-870b81182726",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "Sound drops out as the beam erupts. One brief white flare overwhelms the image. As the exposure settles, the surrounding rooftops and banners resolve into dark silhouettes. Riley remains tiny in the lower foreground, visibly connected to the source of the impossible beam.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "122ac562-0ae8-4f1d-8498-0f1f8cc040ee",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "Her eyes widen. The force shoves her boots backward across the cobbles. The fortress disappears into the light.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "04fb51af-e013-4056-92b4-e47b9bb5538c",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "Then the entire castle EXPLODES. The fortress breaks apart in near-silence. Towers burst apart. Battlements vanish inside a rolling cloud of dust. One enormous crimson banner sails slowly upward, suddenly without a building.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "966a3867-9cfb-4ffe-81d9-cd65c5b043eb",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "The beam cuts out. Riley remains braced behind the staff, stiff, surprised, out of her depth. Where the fortress stood, there is now considerably more sky.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "6af903ed-b7f5-4341-b0de-452e09cdb8b5",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "The delayed BOOM and pressure wave reach the plaza together. Papers scatter. Banners whip violently. The magistrate catches his tiny reading glasses with both hands.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "c8540a46-8c4d-4887-8358-be87e42c146f",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "Riley lowers her staff. Loose strands of auburn hair have escaped across her face. She pushes them back.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "38272e1c-d2f4-4e9a-82bb-900301616243",
+      "kind": "Character",
+      "spans": [
+        {
+          "text": "RILEY",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b0910b6c-7e4e-4610-a993-798dcb6bc87e",
+      "kind": "Dialogue",
+      "spans": [
+        {
+          "text": "Oops.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "4b7fab31-6c74-4931-93ca-138a36fb1847",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "The guard stares at her. She draws her elbows in again.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "0b843bf5-d9b2-4852-9c3b-5e3823beb289",
+      "kind": "Character",
+      "spans": [
+        {
+          "text": "RILEY",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "ef9cdfe2-041a-4149-8963-3751c1d79e30",
+      "kind": "Dialogue",
+      "spans": [
+        {
+          "text": "Would it help if I apologized?",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "5e442086-2726-4262-95e4-ccc1833d4dd8",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "A distant tower, briefly undecided, collapses into the dust. Neither of them looks away.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "a00305c8-46da-45d0-8cf7-d3d20bc026d8",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "The edge of the defendant\u2019s podium dissolves into blue pixels. Riley notices.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "019c9697-206f-4475-9bf0-0bf8775dc2fd",
+      "kind": "Character",
+      "spans": [
+        {
+          "text": "RILEY",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "67ff4231-362a-4e0c-b00a-9271597f14ec",
+      "kind": "Dialogue",
+      "spans": [
+        {
+          "text": "I should go.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "60f8dea0-29b7-49e5-b26e-f8bf1fbb2a45",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "She runs for the rift as the banners and stonework dissolve behind her. The guard hurries alongside her, holding out his clipboard.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "aed935e8-9186-4273-8bda-9a9fc52126d1",
+      "kind": "Character",
+      "spans": [
+        {
+          "text": "GUARD",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "92c745bb-60d6-46df-8031-4bae4ea42619",
+      "kind": "Dialogue",
+      "spans": [
+        {
+          "text": "How would you rate your detention?",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "e7e6ec9b-18ac-44ac-92b7-ba56561faaa3",
+      "kind": "Character",
+      "spans": [
+        {
+          "text": "RILEY",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "ccefdc60-4427-4607-8c52-7e21aa995bc1",
+      "kind": "Dialogue",
+      "spans": [
+        {
+          "text": "One star!",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "85ad3003-f88c-4b3c-88c2-739f4648557e",
+      "kind": "Character",
+      "spans": [
+        {
+          "text": "GUARD",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "c30fe544-2d41-472e-83f0-e59400b29e2b",
+      "kind": "Dialogue",
+      "spans": [
+        {
+          "text": "Was that the facilities or the staff?",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "d3911a99-0135-41d4-a789-2ccff915ece2",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "Riley leaps through the rift.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "7f4f8484-a8d2-4fc6-ace2-420e46c7c6b3",
+      "kind": "Transition",
+      "spans": [
+        {
+          "text": "CUT TO:",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "38a7897d-f278-4176-aa76-a69e65ff3c2b",
+      "kind": "Scene",
+      "spans": [
+        {
+          "text": "INT. RILEY\u2019S BEDROOM \u2014 NIGHT",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "63edfcad-a460-439d-9593-de302f8ec9e9",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "Riley crashes backward into her gaming chair. Her tank top and shorts are back. Bare feet. No armor or staff.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "8261de6b-7e87-4c23-86f2-61fd92de8638",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "She checks her hands, then pushes her hair out of her face. On the monitor: REMAKE. Above her, a fresh dent marks the ceiling.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "a354f6e9-3de8-4d52-9bd6-bdf4819afc82",
+      "kind": "Character",
+      "spans": [
+        {
+          "text": "RILEY",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "71baeba2-1f17-44d9-950b-5e4b7b10e871",
+      "kind": "Dialogue",
+      "spans": [
+        {
+          "text": "Okay. Message received.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "5e262d5b-d6d6-458d-a451-476a901a0ec8",
+      "kind": "Character",
+      "spans": [
+        {
+          "text": "RILEY",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "c6f3929b-c7a1-4fe2-8dfc-8140057dff73",
+      "kind": "Dialogue",
+      "spans": [
+        {
+          "text": "Okay. Next match, I\u2019m actually picking a frontline.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b08c7e32-cb0c-4fbc-96d0-f457af25bc19",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "She opens the champion list. Moves her cursor toward MORDEKAISER.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "9a54e60b-571e-4974-a33f-69d66b8bca0c",
+      "kind": "Character",
+      "spans": [
+        {
+          "text": "RILEY",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "9151f3d5-313e-4b44-abdd-7a2d736df923",
+      "kind": "Dialogue",
+      "spans": [
+        {
+          "text": "Someone with actual armor.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "9279f139-00ee-4fcc-8c3f-4abed2c26077",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "A heavy metallic KNOCK comes from inside the monitor. Riley freezes. Another KNOCK.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b90a1fd0-11bc-4d3c-976e-add1dde8e489",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "She closes the client. Unplugs the computer. Rolls several feet away and draws her knees up onto the chair.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "75af042b-3816-48c3-b198-f56314371c81",
+      "kind": "Character",
+      "spans": [
+        {
+          "text": "RILEY",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "033c7d73-c3ed-4026-9b6e-3a0e4f5da58f",
+      "kind": "Dialogue",
+      "spans": [
+        {
+          "text": "Great session. Learned a lot.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "c0bbdc98-2ca5-4ce6-9f40-bdee16084076",
+      "kind": "Transition",
+      "spans": [
+        {
+          "text": "CUT TO BLACK.",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "3e814285-5e02-44f2-84a7-ab00b2a3d943",
+      "kind": "Action",
+      "spans": [
+        {
+          "text": "\n\n",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    }
+  ]
+}

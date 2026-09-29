@@ -1,0 +1,239 @@
+{
+  "schemaVersion": 1,
+  "projectId": "3409b29d-c815-40bc-a07e-3d9e9442ac7c",
+  "revision": 7,
+  "updatedUtc": "2026-09-28T17:46:38.3189329+00:00",
+  "clips": [
+    {
+      "id": "47c38199-9c0f-49e3-a51f-3ef634a56fad",
+      "shotId": "c8f54430-e642-4d30-9e00-538d7c81f983",
+      "takeId": "5c7bd873-be29-4d39-8f93-0a8d8e8b5394",
+      "shotTitle": "The Gamer\u0027s Den",
+      "takeLabel": "Take 1 \u00B7 2026-09-27 17:59 \u00B7 5c7bd873",
+      "frameCount": 175,
+      "fps": 24,
+      "startFrame": 0,
+      "endFrameExclusive": 175
+    },
+    {
+      "id": "de59735d-04dd-4348-aae4-a22920af682b",
+      "shotId": "bbe9e283-c0a5-41b2-a5a7-9a025dd15495",
+      "takeId": "8b2c464e-0849-428f-85e2-da060a07e8c6",
+      "shotTitle": "Assigned Top",
+      "takeLabel": "Take 1 \u00B7 2026-09-27 18:08 \u00B7 8b2c464e",
+      "frameCount": 158,
+      "fps": 24,
+      "startFrame": 0,
+      "endFrameExclusive": 158
+    },
+    {
+      "id": "806d806f-b5c6-4746-985e-9845c03147a3",
+      "shotId": "716fe72a-a117-443a-b944-36aadf60ae07",
+      "takeId": "32c333d7-3302-4b4b-bbb6-4348ada2dee2",
+      "shotTitle": "Elementalist Preview",
+      "takeLabel": "Take 1 \u00B7 2026-09-27 18:17 \u00B7 32c333d7",
+      "frameCount": 158,
+      "fps": 24,
+      "startFrame": 0,
+      "endFrameExclusive": 158
+    },
+    {
+      "id": "5140ea1e-4c24-411f-9a68-67ea8cf19dbd",
+      "shotId": "21bb9020-543d-4ffd-b250-ea063fb887f3",
+      "takeId": "0397c155-0367-4bc1-97da-f81a098ebd92",
+      "shotTitle": "I Have a Shield",
+      "takeLabel": "Take 1 \u00B7 2026-09-27 18:28 \u00B7 0397c155",
+      "frameCount": 175,
+      "fps": 24,
+      "startFrame": 0,
+      "endFrameExclusive": 175
+    },
+    {
+      "id": "27ac794f-daec-4042-8fed-39557428ed20",
+      "shotId": "7ea6ca7c-3194-4b35-ad3d-118b7c45f7e6",
+      "takeId": "a6cdadf4-7a6b-4004-970b-897a70b68720",
+      "shotTitle": "Typed and Deleted",
+      "takeLabel": "Take 1 \u00B7 2026-09-27 18:36 \u00B7 a6cdadf4",
+      "frameCount": 124,
+      "fps": 24,
+      "startFrame": 0,
+      "endFrameExclusive": 124
+    },
+    {
+      "id": "93f472e9-4b63-43dc-9846-5651cdca7664",
+      "shotId": "7e73d6c4-7ef5-4784-b8f7-1414cfe81c07",
+      "takeId": "a4fb6fe4-c7d5-400f-9e6f-0a05bd343f81",
+      "shotTitle": "Regrettable Sip",
+      "takeLabel": "Take 1 \u00B7 2026-09-27 18:43 \u00B7 a4fb6fe4",
+      "frameCount": 107,
+      "fps": 24,
+      "startFrame": 0,
+      "endFrameExclusive": 107
+    },
+    {
+      "id": "5931cd48-5d37-40d8-9661-c84e61d6fa0c",
+      "shotId": "aa7b8a2d-4d97-4de1-a2bb-92f4211195b5",
+      "takeId": "62a0a07e-c8c9-4d70-81f9-3fa0e35fe84a",
+      "shotTitle": "Ninety-Nine Percent",
+      "takeLabel": "Take 1 \u00B7 2026-09-27 18:54 \u00B7 62a0a07e",
+      "frameCount": 192,
+      "fps": 24,
+      "startFrame": 0,
+      "endFrameExclusive": 192
+    },
+    {
+      "id": "dbb40394-d692-49cb-8660-cc23f4d42d6b",
+      "shotId": "c5689a93-d240-4692-8aeb-76bae8c7a4b7",
+      "takeId": "6a97762c-889a-4eb8-9410-790c5981affe",
+      "shotTitle": "The Rising Spoon",
+      "takeLabel": "Take 1 \u00B7 2026-09-27 19:02 \u00B7 6a97762c",
+      "frameCount": 107,
+      "fps": 24,
+      "startFrame": 0,
+      "endFrameExclusive": 107
+    },
+    {
+      "id": "91915957-5366-4c49-8a9f-fc9d2e4230d7",
+      "shotId": "af95911f-ea50-4d51-a0ad-abc474763eae",
+      "takeId": "e00deee3-5a38-4098-9520-d737bd335ebf",
+      "shotTitle": "That\u0027s New",
+      "takeLabel": "Take 1 \u00B7 2026-09-27 19:11 \u00B7 e00deee3",
+      "frameCount": 158,
+      "fps": 24,
+      "startFrame": 0,
+      "endFrameExclusive": 158
+    },
+    {
+      "id": "0ecba7c5-a1e7-42a8-a63e-01c03329c0ea",
+      "shotId": "30ce598a-673e-42e3-987c-0cffcd81deba",
+      "takeId": "4514e887-3f6b-4d94-9dc6-9034c8e8d21f",
+      "shotTitle": "Elementalist Transformation",
+      "takeLabel": "Take 1 \u00B7 2026-09-28 14:22 \u00B7 4514e887",
+      "frameCount": 294,
+      "fps": 24,
+      "startFrame": 0,
+      "endFrameExclusive": 294
+    },
+    {
+      "id": "4dd85339-7128-462a-8172-93c89db66080",
+      "shotId": "ac1826fd-5284-498c-bcae-b3158a6af4f6",
+      "takeId": "393b5549-27e2-4721-8e8b-55a1bfc0a5d3",
+      "shotTitle": "Still Hers",
+      "takeLabel": "Take 1 \u00B7 2026-09-28 16:14 \u00B7 393b5549",
+      "frameCount": 226,
+      "fps": 24,
+      "startFrame": 65,
+      "endFrameExclusive": 226
+    },
+    {
+      "id": "8d2abca7-de87-4b4e-b4f8-12f0e4913c3b",
+      "shotId": "ce7d2dea-3e0f-4c86-8ed0-7e8cdb6dfbad",
+      "takeId": "ed5603da-9e43-4afe-95d8-8f64a77e2145",
+      "shotTitle": "A Window to Runeterra",
+      "takeLabel": "Take 1 \u00B7 2026-09-28 16:01 \u00B7 ed5603da",
+      "frameCount": 226,
+      "fps": 24,
+      "startFrame": 0,
+      "endFrameExclusive": 226
+    },
+    {
+      "id": "1cc94837-8a67-412f-92ab-ec247f069d1f",
+      "shotId": "32892e94-4a5d-4d8c-a10d-c26139fd4262",
+      "takeId": "78b066f5-00f8-4dd2-8adc-c56ce7d08c93",
+      "shotTitle": "Not Like This",
+      "takeLabel": "Take 1 \u00B7 2026-09-28 13:01 \u00B7 78b066f5",
+      "frameCount": 158,
+      "fps": 24,
+      "startFrame": 0,
+      "endFrameExclusive": 158
+    },
+    {
+      "id": "44488953-9ccb-405b-87c1-733ed1df0ee4",
+      "shotId": "4980aeb6-0ca4-49a7-b529-a5234a3c5c27",
+      "takeId": "ab011960-11de-4c6d-a698-3685be1ca306",
+      "shotTitle": "Base Skin Request",
+      "takeLabel": "Take 1 \u00B7 2026-09-28 13:08 \u00B7 ab011960",
+      "frameCount": 107,
+      "fps": 24,
+      "startFrame": 0,
+      "endFrameExclusive": 107
+    },
+    {
+      "id": "2cd24f3c-8178-46a5-9fe6-fddd78fd6a17",
+      "shotId": "aeea2fcf-a948-4f2d-870d-6c633f39ed48",
+      "takeId": "afb1e35b-9e3e-4e48-96eb-87e282840792",
+      "shotTitle": "Classic Lux",
+      "takeLabel": "Take 1 \u00B7 2026-09-28 13:25 \u00B7 afb1e35b",
+      "frameCount": 277,
+      "fps": 24,
+      "startFrame": 0,
+      "endFrameExclusive": 277
+    },
+    {
+      "id": "fafe3e76-e902-436f-963e-152f11bbf7eb",
+      "shotId": "3543fcfd-a745-4dd0-a985-c2c466a33139",
+      "takeId": "da4b0ddb-5d9d-4359-a466-1be08254f6c7",
+      "shotTitle": "Not Cutlery",
+      "takeLabel": "Take 1 \u00B7 2026-09-27 20:32 \u00B7 da4b0ddb",
+      "frameCount": 124,
+      "fps": 24,
+      "startFrame": 0,
+      "endFrameExclusive": 124
+    },
+    {
+      "id": "4c93d3b0-d55e-4d50-a482-63af0cff5354",
+      "shotId": "75fdf494-8118-4ee8-b48b-7e705f928d5d",
+      "takeId": "17b04450-863d-45fe-9d1c-6a215563b6f8",
+      "shotTitle": "Real Armor",
+      "takeLabel": "Take 1 \u00B7 2026-09-28 09:41 \u00B7 17b04450",
+      "frameCount": 277,
+      "fps": 24,
+      "startFrame": 18,
+      "endFrameExclusive": 277
+    },
+    {
+      "id": "5e8d1633-2333-429c-8923-10e113231a6f",
+      "shotId": "61d557f9-12cd-4ffb-8e57-ec0f8db141b6",
+      "takeId": "f24939de-907c-42ba-9652-23126e522e33",
+      "shotTitle": "Solid",
+      "takeLabel": "Take 1 \u00B7 2026-09-27 20:57 \u00B7 f24939de",
+      "frameCount": 124,
+      "fps": 24,
+      "startFrame": 0,
+      "endFrameExclusive": 124
+    },
+    {
+      "id": "0c313462-e5ca-4af1-8e39-0fb9f9860d15",
+      "shotId": "43cfab8d-a2e9-483d-8230-4b7a11d7fe9a",
+      "takeId": "ecb576c8-0389-46aa-b12f-b47bb570fd49",
+      "shotTitle": "CLONK",
+      "takeLabel": "Take 1 \u00B7 2026-09-27 21:05 \u00B7 ecb576c8",
+      "frameCount": 124,
+      "fps": 24,
+      "startFrame": 37,
+      "endFrameExclusive": 124
+    },
+    {
+      "id": "a1080514-48dd-4c5d-90d6-a7c1b391263b",
+      "shotId": "4517e40f-c425-4e97-9d4d-7ef2df201450",
+      "takeId": "8f3720ed-febe-4f00-8486-893b2aeb4a7d",
+      "shotTitle": "Pulled Through",
+      "takeLabel": "Take 1 \u00B7 2026-09-27 21:13 \u00B7 8f3720ed",
+      "frameCount": 124,
+      "fps": 24,
+      "startFrame": 0,
+      "endFrameExclusive": 74
+    },
+    {
+      "id": "5461ea63-d9d1-478d-88c0-76bdea2188f0",
+      "shotId": "639afa21-c332-4677-adb6-8bc1ce93566b",
+      "takeId": "ec754fa3-28d1-4b53-8f55-7dea004fb265",
+      "shotTitle": "Crate Landing",
+      "takeLabel": "Take 1 \u00B7 2026-09-27 21:21 \u00B7 ec754fa3",
+      "frameCount": 158,
+      "fps": 24,
+      "startFrame": 0,
+      "endFrameExclusive": 158
+    }
+  ]
+}
