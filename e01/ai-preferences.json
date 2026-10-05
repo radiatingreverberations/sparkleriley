@@ -8,8 +8,8 @@
     "comfyUrl": null
   },
   "textDefaultRevision": 1,
-  "imageDefault": "QwenImage21",
-  "imageDefaultRevision": 1,
+  "imageDefault": "CodexImages",
+  "imageDefaultRevision": 2,
   "production": null,
   "shots": null,
   "story": null,
