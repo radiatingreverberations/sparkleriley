@@ -7,6 +7,7 @@ Made with [Lumibelle](https://lumibelle.ai), a personal video studio for growing
 | Episode | Watch | Project |
 | --- | --- | --- |
 | E01 (part 1) | [YouTube](https://youtu.be/KxoDY2yuNjk) | [`e01`](e01) |
+| E01 (part 2) | [YouTube](https://youtu.be/c7uCbsT0vuQ) | [`e01`](e01) |
 
 ## Open an episode in Lumibelle
 
